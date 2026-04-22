@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at **[https://hamzadotjs.github.io/new-www](https://hamzadotjs.github.io/new-www)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://github.com/hamzadotjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hamzadotjs" height="30" width="40" /></a>
 <a href="https://hamzadotjs.bsky.social" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=1185fe" alt="bluesky" height=30 /></a>
 <a href="https://discordapp.com/users/meeezooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
