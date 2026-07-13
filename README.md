@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I use Arch btw**
 
-- 👨‍💻 All of my projects are available at **[https://hamzadotjs.github.io/new-www](https://hamzadotjs.github.io/new-www)**
+- 👨‍💻 All of my projects are available at **[My website](https://hamzadotjs.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
