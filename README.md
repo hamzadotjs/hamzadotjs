@@ -15,7 +15,7 @@
                                               |  
                                               |   # Reach me out using... 
                                               |   ❯ xdg-open "https://t.me/dumhamza"
-                                              |   ❯ xdg-open "https://discord.com/users/962311614680412181"
+                                              |   ❯ xdg-open "https://discord.com/users/1384129644856348673"
 ```
 
 <p align="center">
