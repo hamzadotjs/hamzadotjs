@@ -11,7 +11,7 @@
         -                                     |
                                               |   # Currently building...
                                               |   ❯ cat projects.txt
-                                              |   tauri-list, ii-vynx (hyprland rice)
+                                              |   tasker, fetcher
                                               |  
                                               |   # Reach me out using... 
                                               |   ❯ xdg-open "https://t.me/dumhamza"
