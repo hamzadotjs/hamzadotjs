@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=rust,androidstudio,,python,js,css,html,arch,vscode,npm,linux" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=rust,androidstudio,python,js,css,html,arch,vscode,npm,linux" alt="Skills Icons" />
   </a>
 </p>
