@@ -18,6 +18,8 @@
                                               |   ❯ xdg-open "https://discord.com/users/1384129644856348673"
 ```
 
+### [neoapps](github.com/neoapps-dev) is my partner in crime, btw
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamzadotjs&label=Profile%20views&color=0e75b6&style=flat" alt="hamzadotjs" />
   <img src="https://img.shields.io/badge/OS-Arch%2FCachyOS-1793d1?logo=arch-linux&logoColor=white" alt="OS" />
